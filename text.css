@@ -73,7 +73,15 @@ select{
     border: 0;
     border-radius: 35px;
     appearance: none;
+<<<<<<< HEAD
     background-image: url(./dropdown.png);
+=======
+<<<<<<< HEAD
+    background-image: url(./dropdown.png);
+=======
+    background-image: url(./dd.jpg);
+>>>>>>> ae61144 (first commit)
+>>>>>>> fa30abd (second update)
     background-repeat: no-repeat;
     background-size: 15px;
     background-position-x: calc(100% - 20px);
